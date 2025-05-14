@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+
+.navbar-container2 {
+    background-color: greenyellow;
+}
+
+.ul-navbar2 {
+    background-color: goldenrod;
+    display:flex;
+}
+
+.li-navbar2 {
+    border: 2px solid green;
+
+}
